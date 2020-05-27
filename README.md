@@ -2,6 +2,11 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/781d7296-e49c-44e3-bf21-74cc2dc33d6f/deploy-status)](https://app.netlify.com/sites/human-exponent/deploys)
 
+## Clone repo & install dependencies
+
+Clone the repo `git clone https://github.com/mzalevski/human-exponent-frontend-task.git`<br />
+and then install the dependencies with `npm install` or `yarn install` in the project directory<br />
+
 ## Available Scripts
 
 In the project directory, you can run:<br />
